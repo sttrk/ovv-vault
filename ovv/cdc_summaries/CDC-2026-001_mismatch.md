@@ -1,25 +1,25 @@
 ---
 type: cdc_summary
 cdc_id: CDC-2026-001
-related_deliverable: テストプロセスの検証
+related_deliverable: CLIツールのエントリポイント設計仕様
 trigger: mismatch
-date: 2026-01-05
+date: 2026-01-06
 resolved: false
 ---
 
-# CDC: ユーザーの発言が現在のタスクに関連していない
+# CDC: ユーザーが求める設計判断に必要な情報が不足している。
 
 ## Trigger
 
 | 項目 | 値 |
 |------|-----|
 | タイプ | mismatch |
-| 発生日 | 2026-01-05 |
-| 発生スレッド | 1457618135510155276 |
+| 発生日 | 2026-01-06 |
+| 発生スレッド | 1458143918578208908 |
 
 ## Observation
 
-ユーザーの発言が現在のタスクに関連していない
+ユーザーが求める設計判断に必要な情報が不足している。
 
 ## Impact
 
@@ -43,5 +43,5 @@ resolved: false
 
 ## Related
 
-- Deliverable: [[テストプロセスの検証]]
+- Deliverable: [[CLIツールのエントリポイント設計仕様]]
 - Decision: [[N/A]]
